@@ -36,6 +36,7 @@
 
 | 💻 Project | 🔍 Description | 🛠 Tech Stack |
 |-----------|----------------|---------------|
+| [🥗 Smart Recipe Recommender](https://github.com/NavyaSri-0701/SmartRecipeRecommender) | Personalized cooking assistant that recommends recipes based on mood, health goals, and ingredients. Includes mood-responsive themes, animated intro, and export to PDF/CSV. | Flask, HTML/CSS/JS, Pandas, scikit-learn, ReportLab |
 | [🔗 Quick Park Assist](https://github.com/NavyaSri-0701/Quick_Park_Assist) | Smart parking system with booking and management | Spring Boot, Thymeleaf, MySQL |
 | [🔗 LIBRA-TECH](https://github.com/NavyaSri-0701/LIBRA-TECH) | Desktop app for library management | Python (Tkinter), MySQL |
 | [🔗 Nutri Shift](https://github.com/NavyaSri-0701/Nutri-Shift) | Nutrition calculator with healthy suggestions | Python, HTML, CSS |
