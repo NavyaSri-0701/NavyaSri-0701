@@ -123,11 +123,9 @@
 ## 🏆 Achievements
 
 - 🎖 Selected for Honors in AI Program (Top 63 in CSE)  
-- 💡 Presented TALK2HOPE: anonymous therapy platform at Ideathon  
 - 🧠 Finalist at GDSC Hackathon with Nutri Shift (SDG Goal 3)  
 - 🧮 Phase-3 CNDS DSA Training by Smart Interviews  
-- 🤖 Completed 36-hour Generative AI Workshop by L4G  
-
+  
 ---
 
 ## 🌐 Coding Profiles
@@ -158,14 +156,5 @@
   </a>
   <a href="https://www.linkedin.com/in/navya-sri-parepalli-115b7a256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1bQGRXFTcfVHDHNi_ipBasNiY5lKQaq9r/view">
-    <img src="https://img.shields.io/badge/Resume-6F42C1?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://navyasri-portfolio.my.canva.site/dagp-4blkq0">
-    <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="tel:+918919110724">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
