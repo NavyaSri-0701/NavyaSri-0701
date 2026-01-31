@@ -15,18 +15,11 @@
   <a href="mailto:navyasriparepalli@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+918919110724">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  
   <a href="https://www.linkedin.com/in/navya-sri-parepalli-115b7a256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1bQGRXFTcfVHDHNi_ipBasNiY5lKQaq9r/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-6F42C1?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-  <a href="https://navyasri-portfolio.my.canva.site/dagp-4blkq0">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=sitepoint&logoColor=white"/>
-  </a>
+  
 </p>
 
 
